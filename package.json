@@ -55,7 +55,9 @@
   "theiaPlugins": {
     "vscode-builtin-extensions-pack": "https://open-vsx.org/api/eclipse-theia/builtin-extension-pack/1.77.0/file/eclipse-theia.builtin-extension-pack-1.77.0.vsix",
     "vscjava.vscode-java-pack": "https://open-vsx.org/api/vscjava/vscode-java-pack/0.25.11/file/vscjava.vscode-java-pack-0.25.11.vsix",
-    "vscjava.vscode-java-dependency": "https://open-vsx.org/api/vscjava/vscode-java-dependency/0.21.2/file/vscjava.vscode-java-dependency-0.21.2.vsix"
+    "vscjava.vscode-java-dependency": "https://open-vsx.org/api/vscjava/vscode-java-dependency/0.21.2/file/vscjava.vscode-java-dependency-0.21.2.vsix",
+    "kieler.klighd-vscode": "https://open-vsx.org/api/kieler/klighd-vscode/0.4.2/file/kieler.klighd-vscode-0.4.2.vsix",
+    "lf-lang.vscode-lingua-franca": "https://open-vsx.org/api/lf-lang/vscode-lingua-franca/0.6.20230913/file/lf-lang.vscode-lingua-franca-0.6.20230913.vsix"
   },
   "theiaPluginsExcludeIds": [
     "ms-vscode.js-debug-companion",
